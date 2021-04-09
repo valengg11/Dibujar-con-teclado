@@ -1,0 +1,17 @@
+body{
+    background: aqua;
+}
+
+.canvas-div{
+    margin: 100px;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+canvas{
+    border: 1px solid black;
+    margin: 0 auto;
+
+
+--+ */
